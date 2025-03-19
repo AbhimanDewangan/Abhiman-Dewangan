@@ -51,8 +51,8 @@
         <strong>
             <p>Aryabhatta Ganit Challenge Under 100 Ranking</p>
     <p>UIMO Olympiad: Outside India Rank 1 (Grade 9) </p> 
-      <p> NSTSE Olympiad:Outside India Rank 2Grade 9)</p>
-      <p>SOF NSO Olympiad: Gold Medal Of Distinction(Grade 7 and Grade 10) </p>
+      <p> NSTSE Olympiad:Outside India Rank 2 (Grade 9)</p>
+      <p>SOF NSO Olympiad: Gold Medal Of Distinction (Grade 7 and Grade 10) </p>
       <p>ISSO Zonal Bronze Medal and Medal Of Distinction (Grade 10)</p>
       <p>  SOF IMO , NCO , IGKO , ISSO: Recieved Gold Medal Of Excellence (Grade 7 onwards) </p>
 </strong>
